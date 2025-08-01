@@ -20,6 +20,17 @@
 - 交互式选择 Kindle 型号
 - 输出文件名包含设备型号，便于识别
 
+## 演示图片
+
+以下是一些使用本工具转换的演示图片。所有图片均来自 Unsplash：
+
+![演示图片 1](demo_images/alexandre-chambon_in-united-states_shot-with-canon-canon-eos-700d-f5.6-1_100s-100iso-18.0mm_by-goodspleen_id-Tnp2tNJW_W8_kindle_pw4.jpg)
+![演示图片 2](demo_images/alisha-hieb_in-bergen-norway_shot-with-nikon-corporation-nikon-d7000-f4.5-1_50s-1000iso-22.0mm_by-wildandinlove_id-qly35FEQwA4_kindle_pw4.jpg)
+![演示图片 3](demo_images/anders-jildén_by-andersjilden_id-pyz7R5ntkeg_kindle_pw4.jpg)
+![演示图片 4](demo_images/andrew-spencer_in-italy_shot-with-sony-ilce-7m2-f10.0-1_500s-200iso-28.0mm_by-iam_aspencer_id-2fBxIn9YniI_kindle_pw4.jpg)
+![演示图片 5](demo_images/Dario-Jud-HXbAioPEVyQ-by-dariojud_-unsplash_kindle_pw4.jpg)
+![演示图片 6](demo_images/jonathan-bean-sbZU1j31ggE_kindle_pw4.jpg)
+
 ## 支持的 Kindle 型号
 
 ### 基础款 Kindle:

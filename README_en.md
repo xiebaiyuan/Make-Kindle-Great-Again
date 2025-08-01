@@ -15,6 +15,17 @@ A tool to convert color images to grayscale wallpaper images suitable for Kindle
 - Interactive Kindle model selection
 - Output filenames include device model for easy identification
 
+## Demo Images
+
+Here are some demo images processed using this tool. All images are from Unsplash:
+
+![Demo Image 1](demo_images/alexandre-chambon_in-united-states_shot-with-canon-canon-eos-700d-f5.6-1_100s-100iso-18.0mm_by-goodspleen_id-Tnp2tNJW_W8_kindle_pw4.jpg)
+![Demo Image 2](demo_images/alisha-hieb_in-bergen-norway_shot-with-nikon-corporation-nikon-d7000-f4.5-1_50s-1000iso-22.0mm_by-wildandinlove_id-qly35FEQwA4_kindle_pw4.jpg)
+![Demo Image 3](demo_images/anders-jildén_by-andersjilden_id-pyz7R5ntkeg_kindle_pw4.jpg)
+![Demo Image 4](demo_images/andrew-spencer_in-italy_shot-with-sony-ilce-7m2-f10.0-1_500s-200iso-28.0mm_by-iam_aspencer_id-2fBxIn9YniI_kindle_pw4.jpg)
+![Demo Image 5](demo_images/Dario-Jud-HXbAioPEVyQ-by-dariojud_-unsplash_kindle_pw4.jpg)
+![Demo Image 6](demo_images/jonathan-bean-sbZU1j31ggE_kindle_pw4.jpg)
+
 ## Supported Kindle Models
 
 ### Basic Kindle:
