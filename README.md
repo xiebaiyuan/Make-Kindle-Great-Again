@@ -1,6 +1,6 @@
 # Kindle Wallpaper Tool
 
-![License](https://img.shields.io/github/license/xiebaiyuan/kindle-wallpaper-tool)
+![License](https://img.shields.io/github/license/xiebaiyuan/Make-Kindle-Great-Again)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 
 将彩色图像转换为适用于 Kindle 设备的灰度壁纸图像的工具。
@@ -68,8 +68,8 @@ Kindle 设备的分辨率信息来源于: https://bookfere.com/post/694.html
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/xiebaiyuan/kindle-wallpaper-tool.git
-cd kindle-wallpaper-tool
+git clone https://github.com/xiebaiyuan/Make-Kindle-Great-Again.git
+cd Make-Kindle-Great-Again
 ```
 
 ### 安装依赖

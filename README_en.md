@@ -1,6 +1,6 @@
 # Kindle Wallpaper Tool
 
-![License](https://img.shields.io/github/license/xiebaiyuan/kindle-wallpaper-tool)
+![License](https://img.shields.io/github/license/xiebaiyuan/Make-Kindle-Great-Again)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 
 A tool to convert color images to grayscale wallpaper images suitable for Kindle devices.
@@ -59,8 +59,8 @@ Here are some demo images processed using this tool. All images are from Unsplas
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/xiebaiyuan/kindle-wallpaper-tool.git
-cd kindle-wallpaper-tool
+git clone https://github.com/xiebaiyuan/Make-Kindle-Great-Again.git
+cd Make-Kindle-Great-Again
 ```
 
 ### Install Dependencies
