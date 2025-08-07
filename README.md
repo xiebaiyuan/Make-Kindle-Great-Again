@@ -145,6 +145,11 @@ python kindle_image_converter.py
 
 例如，使用 Scribe 型号转换 `vacation.jpg` 会生成 `vacation_kindle_scribe.jpg`
 
+## 图片样例1000+
+[images packages](https://linux.do/t/topic/834473?u=xiebaiyuan)
+
+备注:图片版权来自unsplash,如有版权问题请联系删除
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个工具。
